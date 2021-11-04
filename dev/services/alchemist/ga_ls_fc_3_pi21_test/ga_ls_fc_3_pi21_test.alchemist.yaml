@@ -55,7 +55,7 @@ output:
   inherit_geometry: True
 
   metadata:
-    product_family: fc
+    product_family: fc_pi21_test
     producer: ga.gov.au
     dataset_version: 2.5.0
     collection_number: 3
