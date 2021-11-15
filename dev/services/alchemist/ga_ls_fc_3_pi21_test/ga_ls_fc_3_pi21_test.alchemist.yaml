@@ -55,7 +55,7 @@ output:
   metadata:
     product_family: fc_pi21_test
     producer: ga.gov.au
-    dataset_version: 2.5.0
+    dataset_version: 2.5.1
     collection_number: 3
     naming_conventions: dea_c3
   properties:
